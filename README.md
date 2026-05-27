@@ -46,16 +46,6 @@ Patients can discover doctors by speciality, pick available time slots, and comp
 
 ---
 
-## 🖼️ Screenshots
-
-<div align="center">
-
-| Patient Portal | Doctor Dashboard | Admin Panel |
-|:-:|:-:|:-:|
-| Browse & Book | Manage Appointments | Control Everything |
-
-</div>
-
 ---
 
 ## ⚡ Features At a Glance
